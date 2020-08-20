@@ -4,7 +4,7 @@ My Employee Index application is designed to show my ability to put together a r
 
 ## Application Preview
 
-![screenshot](employee_index_react.gif)
+![employee_index_react](https://user-images.githubusercontent.com/61300825/90814348-d6f12880-e2dd-11ea-96a7-8894f2e374cf.gif)
 
 ## Installing
 
